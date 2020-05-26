@@ -25,6 +25,6 @@ Este módulo será el puntapie de trabajo para los profesores y alumnos en los p
  <hr>
 
 <p align="center">
-  <img width="25%" src="https://lh5.googleusercontent.com/W7vyyyQDrG1AbxrCMbo1OJBBAbsOESflDEXv5Jp_qmwW2AhZGdG6jFqWFpoJcdC8PY66PqFlz7c7EfuL-h8ynr8PIw53McLFD1BepIgHO7FB4Zxyn9vdbFLGABBCSnvlZlUzfJiV">
+  <img width="25%" src="https://user-images.githubusercontent.com/22304957/82905737-9b42fe80-9f3a-11ea-9e00-98f034a50c7e.png">
 </p>
 <p align="center">La educación es el arma más poderosa para cambiar el mundo</p>
