@@ -12,11 +12,19 @@ Aprender a manejar los flujos de trabajo que se utilizan en el día a día dentr
 
 Este módulo será el puntapie de trabajo para los profesores y alumnos en los próximos módulos donde lo utilizarán mientras ven los temas relacionados al Desarrollo Web en cuestión.
 
-## 📋 Temarios generales
+## 📋 Temario general
 
  - Introducción a sistemas controladores de versiones con Git
  - Plataforma de GitHub adaptado a nuestro uso diario
  - Metodologías ágiles que utilizamos y combinamos en nuestro día a día
+
+ ### Clases
+
+ | # | Temas                                                                       | Hs |
+ | - | :-------------------------------------------------------------------------- | :-:|
+ | 1 | Metodologías de trabajo<br> - Metodologías Ágiles<br> - Metodología Rooftop | 2  |
+ | 2 | Sistemas de control de versiones<br> - Estados posibles<br> - Comandos principales<br> - Manejo entre ramas<br> - Remoto | 2  |
+ | 3 | Herramienta de trabajo: GitHub<br> - Code: branches y releases<br> - Issues: labels<br> - Pull Requests<br> - Projects<br> - Wiki | 2  |
  
  ## 📚 Materiales
  
