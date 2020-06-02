@@ -1,6 +1,9 @@
 #### Colaboración Remota (Hostings)
 
-Esta genial hasta ahora podemos versionar nuestro proyecto para nosotros mismos, pero si quiero colaborar con más personas y que todos colaboremos sobre el mismo proyecto, necesitamos de un hosting remoto, donde todas las personas puedan realizar sus colaboraciones.
+Esta genial hasta ahora podemos versionar nuestro proyecto para nosotros mismos,
+pero si quiero colaborar con más personas y que todos colaboremos sobre el mismo proyecto,
+necesitamos de un hosting remoto, donde todas las personas puedan realizar
+sus colaboraciones.
 
 Hostings:
 
