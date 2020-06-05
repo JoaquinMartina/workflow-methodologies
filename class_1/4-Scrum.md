@@ -33,3 +33,16 @@ El equipo evalúa el sprint. Deciden qué funcionó y qué no para mejorar el pr
 **Entrega provisional:** el cliente prueba el incremento del producto. Si el producto está completo, el equipo de desarrollo regresa al Product Backlog para prepararse para otro sprint. Este ciclo se repite hasta que todas las historias de usuario se completen a satisfacción del Product Owner.
 
 **Entrega final:** una vez que todas las historias de usuario se completan a satisfacción del Product Owner, el producto está listo para dárselo al cliente.
+
+#### Principios
+- **Control empírico de procesos:** Este principio enfatiza la filosofía central de Scrum basada en las tres ideas principales de transparencia, revisión y adaptación.
+
+- **Auto-organización:** Este principio se centra en los trabajadores de hoy, que entregan un valor significativamente mayor cuando se auto-organizan y esto resulta en una mejor participación de los equipos y en la propiedad compartida de lo conseguido; y un entorno innovador y creativo que sea más propicio para el crecimiento.
+
+- **Colaboración:** Este principio se centra en las tres dimensiones fundamentales relacionadas con el trabajo colaborativo: la conciencia, la articulación y la apropiación. También aboga por la gestión de proyectos como un proceso compartido de creación de valor con equipos que trabajan e interactúan juntos para ofrecer el mayor valor. 
+
+- **Priorización basada en el valor:** Este principio destaca el enfoque de Scrum para ofrecer el máximo valor comercial, desde el principio del proyecto y continuando en todo momento.
+
+- **Time-boxing:** Este principio describe cómo el tiempo se considera una restricción limitante en Scrum, y se utiliza para ayudar a gestionar eficazmente la planificación y ejecución de proyectos. Entre los elementos de Time-Boxed en Scrum se incluyen Sprints, Reuniones de Standup diarias, Sprint Planning Meetings y Sprint Review Meetings.
+
+- **Desarrollo iterativo:** Este principio define el desarrollo iterativo y enfatiza cómo administrar mejor los cambios y construir productos que satisfagan las necesidades del cliente. También delinea las responsabilidades del Propietario del Producto y de la organización relacionadas con el desarrollo iterativo.
