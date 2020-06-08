@@ -1,0 +1,15 @@
+{
+    "name": "deckard/php-bootstrapping",
+    "description": "Esqueleto de PHP",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mati Beltramone",
+            "email": "mgbeltramone@gmail.com"
+        }
+    ],
+    "require": {
+        "ext-dom": "*"
+    }
+}
