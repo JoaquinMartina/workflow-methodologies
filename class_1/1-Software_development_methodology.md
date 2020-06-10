@@ -6,3 +6,6 @@ A lo largo del tiempo, una gran cantidad de métodos han sido desarrollados dife
 Cada metodología de desarrollo de software suele tener su propio enfoque para el desarrollo de software. Estos son los enfoques más generales, que se desarrollan en varias metodologías específicas:
 * Desarrollo en Cascada: secuencial, orden riguroso de las etapas, orientado a documentos, un error implica retrabajo.
 * Desarrollo Iterativo e Incremental: resuelve las debilidades del modelo en cascada, entregas y retroalimentación tempranas, colaboración del cliente.
+
+![modelo-incremental](https://user-images.githubusercontent.com/38529682/84301562-68982900-ab2a-11ea-9cb0-4880ba4b8cd7.png)
+
