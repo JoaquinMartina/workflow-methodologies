@@ -3,6 +3,8 @@ El Método de Desarrollo de Sistemas dinámicos (en inglés Dynamic Systems Deve
 
 #### Flujo de trabajo
 
+![dsdm-process](https://user-images.githubusercontent.com/38529682/84308266-95e9d480-ab34-11ea-92a9-c1da345c8ea2.png)
+
 ##### Pre-project
 Asegurar que la organización únicamente empieza los proyectos adecuados, con un objetivo claro. Es una visión de Portfolio en la que se debe decidir en qué invertir basándose en la estrategia de la empresa.
  

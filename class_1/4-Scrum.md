@@ -6,6 +6,8 @@ Scrum es un proceso en el que se aplican de manera regular un conjunto de buenas
 
 #### Flujo de trabajo
 
+![scrum-infographic-864px](https://user-images.githubusercontent.com/38529682/84307937-122fe800-ab34-11ea-8908-baf36a0ee32f.png)
+
 ##### Seleccionar equipo Scrum
 - Product Owner: representa al cliente, comunica las prioridades y la visión al equipo. 
 - Scrum Master: actúa como facilitador entre la Product Owner y el equipo. 
@@ -34,6 +36,7 @@ El equipo evalúa el sprint. Deciden qué funcionó y qué no para mejorar el pr
 **Entrega final:** una vez que todas las historias de usuario se completan a satisfacción del Product Owner, el producto está listo para dárselo al cliente.
 
 #### Principios
+
 - **Control empírico de procesos**
   Este principio enfatiza la filosofía central de Scrum basada en las tres ideas principales de transparencia, revisión y adaptación.
 
@@ -51,4 +54,3 @@ El equipo evalúa el sprint. Deciden qué funcionó y qué no para mejorar el pr
 
 - **Desarrollo iterativo**
   Este principio define el desarrollo iterativo y enfatiza cómo administrar mejor los cambios y construir productos que satisfagan las necesidades del cliente. También delinea las responsabilidades del Propietario del Producto y de la organización relacionadas con el desarrollo iterativo.
-  
