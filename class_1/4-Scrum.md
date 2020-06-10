@@ -1,9 +1,8 @@
 ### Scrum
-Scrum es un marco de trabajo para desarrollo ágil de software.
-Es un proceso en el que se aplican de manera regular un conjunto de buenas prácticas para trabajar colaborativamente, en equipo y obtener el mejor resultado posible de proyectos, caracterizado por:1​
-Adoptar una estrategia de desarrollo incremental, en lugar de la planificación y ejecución completa del producto.
-Basar la calidad del resultado más en el conocimiento tácito de las personas en equipos auto organizados, que en la calidad de los procesos empleados.
-Solapar las diferentes fases del desarrollo, en lugar de realizar una tras otra en un ciclo secuencial o en cascada.
+Scrum es un proceso en el que se aplican de manera regular un conjunto de buenas prácticas para trabajar colaborativamente, en equipo, y obtener el mejor resultado posible de proyectos, caracterizado por:
+- Adoptar una estrategia de desarrollo incremental, en lugar de la planificación y ejecución completa del producto.
+- Basar la calidad del resultado más en el conocimiento tácito de las personas en equipos auto organizados, que en la calidad de los procesos empleados.
+- Solapar las diferentes fases del desarrollo, en lugar de realizar una tras otra en un ciclo secuencial o en cascada.
 
 #### Flujo de trabajo
 
@@ -35,14 +34,21 @@ El equipo evalúa el sprint. Deciden qué funcionó y qué no para mejorar el pr
 **Entrega final:** una vez que todas las historias de usuario se completan a satisfacción del Product Owner, el producto está listo para dárselo al cliente.
 
 #### Principios
-- **Control empírico de procesos:** Este principio enfatiza la filosofía central de Scrum basada en las tres ideas principales de transparencia, revisión y adaptación.
+- **Control empírico de procesos**
+  Este principio enfatiza la filosofía central de Scrum basada en las tres ideas principales de transparencia, revisión y adaptación.
 
-- **Auto-organización:** Este principio se centra en los trabajadores de hoy, que entregan un valor significativamente mayor cuando se auto-organizan y esto resulta en una mejor participación de los equipos y en la propiedad compartida de lo conseguido; y un entorno innovador y creativo que sea más propicio para el crecimiento.
+- **Auto-organización**
+  Este principio se centra en los trabajadores de hoy, que entregan un valor significativamente mayor cuando se auto-organizan y esto resulta en una mejor participación de los equipos y en la propiedad compartida de lo conseguido; y un entorno innovador y creativo que sea más propicio para el crecimiento.
 
-- **Colaboración:** Este principio se centra en las tres dimensiones fundamentales relacionadas con el trabajo colaborativo: la conciencia, la articulación y la apropiación. También aboga por la gestión de proyectos como un proceso compartido de creación de valor con equipos que trabajan e interactúan juntos para ofrecer el mayor valor. 
+- **Colaboración**
+  Este principio se centra en las tres dimensiones fundamentales relacionadas con el trabajo colaborativo: la conciencia, la articulación y la apropiación. También aboga por la gestión de proyectos como un proceso compartido de creación de valor con equipos que trabajan e interactúan juntos para ofrecer el mayor valor. 
 
-- **Priorización basada en el valor:** Este principio destaca el enfoque de Scrum para ofrecer el máximo valor comercial, desde el principio del proyecto y continuando en todo momento.
+- **Priorización basada en el valor**
+  Este principio destaca el enfoque de Scrum para ofrecer el máximo valor comercial, desde el principio del proyecto y continuando en todo momento.
 
-- **Time-boxing:** Este principio describe cómo el tiempo se considera una restricción limitante en Scrum, y se utiliza para ayudar a gestionar eficazmente la planificación y ejecución de proyectos. Entre los elementos de Time-Boxed en Scrum se incluyen Sprints, Reuniones de Standup diarias, Sprint Planning Meetings y Sprint Review Meetings.
+- **Time-boxing**
+  Este principio describe cómo el tiempo se considera una restricción limitante en Scrum, y se utiliza para ayudar a gestionar eficazmente la planificación y ejecución de proyectos. Entre los elementos de Time-Boxed en Scrum se incluyen Sprints, Reuniones de Standup diarias, Sprint Planning Meetings y Sprint Review Meetings.
 
-- **Desarrollo iterativo:** Este principio define el desarrollo iterativo y enfatiza cómo administrar mejor los cambios y construir productos que satisfagan las necesidades del cliente. También delinea las responsabilidades del Propietario del Producto y de la organización relacionadas con el desarrollo iterativo.
+- **Desarrollo iterativo**
+  Este principio define el desarrollo iterativo y enfatiza cómo administrar mejor los cambios y construir productos que satisfagan las necesidades del cliente. También delinea las responsabilidades del Propietario del Producto y de la organización relacionadas con el desarrollo iterativo.
+  
