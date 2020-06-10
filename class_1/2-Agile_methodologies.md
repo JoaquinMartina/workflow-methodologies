@@ -3,7 +3,7 @@ El desarrollo ágil de software envuelve un enfoque para la toma de decisiones e
 Cada iteración del ciclo de vida incluye planificación, análisis de requisitos, diseño, codificación, pruebas y documentación. Adquiere una gran importancia el concepto de "finalizado" (done), ya que el objetivo de cada iteración no es agregar toda la funcionalidad para justificar el lanzamiento del producto al mercado, sino incrementar el valor por medio de "software que funciona" (sin errores).
 Las metodologías ágiles enfatizan las comunicaciones cara a cara en vez de la documentación, y que el software funcional es la primera medida del progreso. Generalmente, estás metodologías son criticadas y tratadas como "indisciplinados" por la falta de documentación técnica.
 
-![agile](https://user-images.githubusercontent.com/38529682/84301849-d5abbe80-ab2a-11ea-9f4f-5aa0f5deac29.png)
+![agile (1)](https://user-images.githubusercontent.com/38529682/84308455-f711a800-ab34-11ea-9f01-7c9414961799.png)
 
 #### Manifiesto Ágil
 Las metodologías ágiles cambian el valor de algunos conceptos básicos, dando más importancia a unos sobre otros. Y estas valoraciones son:
